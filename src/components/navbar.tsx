@@ -15,6 +15,7 @@ import { Home } from "lucide-react";
 const links = [
   { label: "Home", href: "/" },
   { label: "Works", href: "/works" },
+  { label: "Blogs", href: "/blogs" },
   { label: "Contact", href: "/contact" },
   { label: "About", href: "/about" },
 ];
