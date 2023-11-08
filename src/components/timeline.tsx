@@ -1,9 +1,9 @@
 import React from 'react'
 
-const timeline = (props: {}) => {
+const TimeLine = (props: {}) => {
   return (
     <div >
-      
+     Empty Component 
     </div>
   )
 }
